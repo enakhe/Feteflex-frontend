@@ -1,5 +1,5 @@
 import { Fragment } from 'react'
-import CallToAction from '../components/CallToAction'
+import CallToAction from '../components/Body'
 import Header from '../components/Header'
 
 const Home = () => {
